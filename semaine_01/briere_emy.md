@@ -10,3 +10,6 @@
 
 <p>Pour se qui est de mes autres intérêts j'aime énormément l'art pour se qui est de faire de l'art ou bien d'aller visiter des différent musée pour trouver mon inspiration. Ensuite, j'aime bien lire des livres en anglais de romance et aussi cuisiner des repas mais plus des dessert.</p>
 
+![interets](https://user-images.githubusercontent.com/112189518/217709357-5c79b761-6a58-4717-85f5-c4c9f414333b.jpeg)
+
+
