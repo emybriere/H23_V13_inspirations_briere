@@ -8,7 +8,7 @@
 
 ***Date de visite:*** On est aller a l'exposition le 2 février 2023.
 
-<img scr="images/images/bian.jpg" width=250px height=250px>
+<img scr="musée.md/images/bian.jpg" width=250px height=250px>
 <img scr>
 
 # Titre de l'oeuvre : Nature morte 7
