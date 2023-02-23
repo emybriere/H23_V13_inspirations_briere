@@ -8,14 +8,14 @@
 
 ***Date de visite:*** On est aller a l'exposition le 2 février 2023.
 
-<img scr
-<img scr
+<img scr="images/images/bian.jpg" width=250px height=250px>
+<img scr>
 
 # Titre de l'oeuvre : Nature morte 7
 
 Elle a été créer par Baron Lanteige
 L'année de création de l'oeuvre est: 2022
-<img scr 
+<img scr>
 
 ***Description de loeuvre***
 Nature Morte 7 présente une fenêtre – unique mais fragmentée – composée décrans posés au sol. Elle ouvre sur un monde oublié, mais toujours en activité. La pièce centrale de cette œuvre combine un écran avec divers composantes électroniques qui s’illumine. La sculpture suspendue tourne le dos au spectateur, afin de mettre en évidence son fonctionnement interne. L’électroniques « grand public » dont lœuvre est composée sont délibérément sortis de leur contexte habituel. Cela permet de révéler leur potentiel, qui est souvent banalisé.                     
