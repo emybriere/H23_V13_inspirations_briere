@@ -3,6 +3,9 @@
 Par: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe 
 
 [Site web de Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+<img src="Mycelium/images/IMG_3570.jpeg" width=400px heigth=400px />
+
+<img src="Mycelium/images/sketch_poteau_central_2.jpeg" width=400px heigth=400px />
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
@@ -26,6 +29,10 @@ Par: Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
 [Site web de Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
+<img src="Mycelium/images/2ECC5CD3-8FE4-4EC4-BAF6-BFBF9C4B8716.JPG" width=400px heigth=400px />
+
+<img src="Mycelium/images/215158934-04f86307-75ae-4314-a2a9-fe68250237ed.PNG" width=400px heigth=400px />
+
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
 582 521 MO Installation multimédia
@@ -47,6 +54,10 @@ Je pense que cette oeuvre va être très populaire au niveau des plus petit car 
 Par: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
 [Site web de Nexum](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
+
+<img src="Mycelium/images/IMG_3571.jpeg" width=400px heigth=400px />
+
+<img src="Mycelium/images/raspberry.jpeg" width=400px heigth=400px />
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
@@ -70,6 +81,10 @@ Par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 [Site web de Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
+<img src="Mycelium/images/IMG_3568.jpeg" width=400px heigth=400px />
+
+<img src="Mycelium/images/216634880-dfc03c34-c022-43a7-ab74-4c9c65d4c527.png" width=400px heigth=400px />
+
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
 582 521 MO Installation multimédia
@@ -91,6 +106,8 @@ Je pense que cette oeuvre va être populaire chez les plus jeunes et aussi chez 
 Par: Abdanor Yara
 
 [Site web de Zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
+
+<img src="Mycelium/images/cartographie.png" width=400px heigth=400px />
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
