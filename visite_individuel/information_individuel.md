@@ -3,7 +3,7 @@
 
 <img src="/visite_individuel/images/affiche_dehors.png" width=400px heigth=400px />
      
-<img src="/visite_individuel/images/cyberpowow.HEIC" width=400px heigth=400px />
+<img src="/visite_individuel/images/cyberpowow Small.png" width=400px heigth=400px />
  
  
 ### Lieu de mise en exposition
@@ -70,10 +70,14 @@ Les composantes techniques sont plus au niveau du codage et de l'installation de
 
 <img src="/visite_individuel/images/ordi_screen.png" width=400px heigth=400px />
 
+<img src="/visite_individuel/images/powpow2.png" width=400px heigth=400px />
+
 
 
 ## Expérience vécue
 J'était tres confuse au debut car je ne comprenait pas trop comment le site fonctionnait mais par la suite j'ai adorer l'expérience de voir différentes œuvre d'art et aussi pouvoir écrire avec les autres visiteurs et donner notre opinion sur CyberPowWow.
+
+<img src="/visite_individuel/images/feuille_informations.png" width=400px heigth=400px />
 
 https://youtube.com/shorts/fbaahBmYfY4
 
