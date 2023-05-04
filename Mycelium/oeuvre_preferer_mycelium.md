@@ -1,13 +1,13 @@
 ## Echomarine
 ### Nom de l'exposition: Mycelium
 
-<img src="Mycelium/images/Screen Shot 2023-04-29 at 1.46.00 PM.png" width=400px heigth=400px />
+<img width="780" alt="Screen Shot 2023-04-29 at 1 46 00 PM" src="https://user-images.githubusercontent.com/112189518/236123927-20a20dbd-e9ca-4d73-b381-3ba29702b309.png">
+
+
      
 ### Lieu de mise en exposition
 
 Collège Montmorency
-
-<img src="" width=400px heigth=400px />
 
 ### Type d'exposition 
 Temporaire et intérieur
@@ -18,7 +18,7 @@ Temporaire et intérieur
 ### Titre de l'oeuvre
 Echomarine
 
-<img src="Mycelium/images/B3723EBE-12BC-4B5F-905D-AC373BEED082.JPG" width=400px heigth=400px />
+
 
 ### Nom des artistes
 Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel et avec l'aide du collège Montmorency 
@@ -28,7 +28,7 @@ Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel et avec l'
 
 ## Description de l'oeuvre 
 
-<img src="Mycelium/images/B3723EBE-12BC-4B5F-905D-AC373BEED082.JPG" width=400px heigth=400px />
+<img src="/Mycelium/images/requin.png" width=400px heigth=400px />
 
 Une projection immersive controlée par un dispositif interactif qui nous donne un aperçu de la beauté des fonds marins tout en mettant de l'avant ses enjeux. Animaux interactifs et plantes marines, Echomarine a un but contemplatif et vise à conscientiser.
 <sub><sup>(https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)</sub></sup>
@@ -47,20 +47,20 @@ Vidéo: https://www.youtube.com/shorts/cL-hC_vVv68
 
 ## Mise en espace
 
-<img src="Mycelium/images/A277ADFE-4829-43FC-95C8-A7890D573A67.JPG" width=400px heigth=400px />
+<img src="/Mycelium/images/lutrin.png" width=400px heigth=400px />
 
-<img src="Mycelium/images/215158934-04f86307-75ae-4314-a2a9-fe68250237ed.PNG" width=400px heigth=400px />
+<img src="/Mycelium/images/tableau_2.png" width=400px heigth=400px />
 
 
 Alors, l'oeuvre vient prendre toute la pièce car comme vous auriez pu remarquer les projections viennet vraiment prendre l'espace sur tout les murs et en même temp il y a une tablette au millieu de la pièce qui vient contrôler quelle animal marin entre dans les projection donc elle vient prendre toute l'espace disponible.
 
 ## Composantes et techniques
 
-<img src="Mycelium/images/2ECC5CD3-8FE4-4EC4-BAF6-BFBF9C4B8716.JPG" width=400px heigth=400px />
+<img src="/Mycelium/images/rooftop.png" width=400px heigth=400px />
 
-<img src="Mycelium/images/DC6CBDA7-504D-43E5-BB00-70BBB3A87BF0.JPG" width=400px heigth=400px />
+<img src="/Mycelium/images/requin.png" width=400px heigth=400px />
 
-<img src="Mycelium/images/B3723EBE-12BC-4B5F-905D-AC373BEED082.JPG" width=400px heigth=400px />
+<img src="/Mycelium/images/tableau Small.png" width=400px heigth=400px />
 
 4 hauts-parleur actifs 4", 1 Carte de son avec 8in et 8out, 3 projecteurs vidéo lentille short throw(ratio 0,5) 3000 lumens, Drap blanc pour projection, Tablette tactile, Ordinateur sur Chariot pour rouler les logiciels, 8 cordon IEC, Kinect, Rasberry Pi, Lumière RGB DMX, Trépied pour tablette, Affiche, Ordinateur portable pour l’installation et Commutateur Ethernet 
 ## Éléments nécessaires à la mise en exposition
@@ -68,11 +68,10 @@ Alors, l'oeuvre vient prendre toute la pièce car comme vous auriez pu remarquer
 
 ## Expérience vécue
 
-<img src="Mycelium/images/DC6CBDA7-504D-43E5-BB00-70BBB3A87BF0.JPG" width=400px heigth=400px />
+<img src="/Mycelium/images/requin.png" width=400px heigth=400px />
 
-<img src="Mycelium/images/B3723EBE-12BC-4B5F-905D-AC373BEED082.JPG" width=400px heigth=400px />
+<img src="/Mycelium/images/tableau Small.png" width=400px heigth=400px />
 
-<img src="Mycelium/images/6E09392D-B714-462D-9D1F-7FF9745D947D.JPG" width=400px heigth=400px />
 
 Vidéo: https://www.youtube.com/shorts/cL-hC_vVv68
 
