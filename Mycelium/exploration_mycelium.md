@@ -3,9 +3,11 @@
 Par: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe 
 
 [Site web de Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
-<img src="Mycelium/images/IMG_3570.jpeg" width=400px heigth=400px />
 
-<img src="Mycelium/images/sketch_poteau_central_2.jpeg" width=400px heigth=400px />
+![IMG_3569](https://user-images.githubusercontent.com/112189518/236124994-02932e2c-8a7f-4c52-8712-fa9cc7f8cce7.jpeg)
+
+
+![sketch_poteau_central_2-2](https://user-images.githubusercontent.com/112189518/236124520-cf8ff9a3-fb5d-4245-a577-f1265b7b3b9d.jpg)
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
@@ -29,9 +31,10 @@ Par: Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
 [Site web de Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-<img src="Mycelium/images/2ECC5CD3-8FE4-4EC4-BAF6-BFBF9C4B8716.JPG" width=400px heigth=400px />
 
-<img src="Mycelium/images/215158934-04f86307-75ae-4314-a2a9-fe68250237ed.PNG" width=400px heigth=400px />
+![6E09392D-B714-462D-9D1F-7FF9745D947D](https://user-images.githubusercontent.com/112189518/236124868-e521e42a-fb52-4990-a0e9-54591e8b2293.JPG)
+
+
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
@@ -55,9 +58,11 @@ Par: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Laurier
 
 [Site web de Nexum](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
-<img src="Mycelium/images/IMG_3571.jpeg" width=400px heigth=400px />
 
-<img src="Mycelium/images/raspberry.jpeg" width=400px heigth=400px />
+![raspberry](https://user-images.githubusercontent.com/112189518/236124577-5767861b-1372-4f06-bfa1-74b7a3bbbe35.jpeg)
+
+![IMG_3571](https://user-images.githubusercontent.com/112189518/236124754-ffedd05b-5a42-428c-abcd-fa840590011b.jpeg)
+
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
@@ -81,9 +86,11 @@ Par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 [Site web de Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
-<img src="Mycelium/images/IMG_3568.jpeg" width=400px heigth=400px />
+![IMG_3567](https://user-images.githubusercontent.com/112189518/236124710-05eaa71d-0f74-4540-b1b9-e6afe9dbf391.jpeg)
 
-<img src="Mycelium/images/216634880-dfc03c34-c022-43a7-ab74-4c9c65d4c527.png" width=400px heigth=400px />
+
+![216634880-dfc03c34-c022-43a7-ab74-4c9c65d4c527](https://user-images.githubusercontent.com/112189518/236124261-f4c8d6c4-f12c-4cf3-8fc3-66aa0601ee60.png)
+
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
@@ -107,7 +114,8 @@ Par: Abdanor Yara
 
 [Site web de Zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
-<img src="Mycelium/images/cartographie.png" width=400px heigth=400px />
+![cartographie](https://user-images.githubusercontent.com/112189518/236124635-a706ef47-e489-469e-9d1e-548a331f7591.png)
+
 
 ### Cours du programme qui sont incontournables pour réaliser ce projet
 
