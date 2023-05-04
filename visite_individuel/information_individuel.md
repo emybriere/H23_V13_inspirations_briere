@@ -40,7 +40,7 @@ Modification: 2023
 <img src="/visite_individuel/images/mise_en_place.png" width=400px heigth=400px />
 
 
-<img src="/visite_individuel/images/ordi_placement.pn" width=400px heigth=400px />
+
 
 ## Condition d'utilisation:
 Cette exposition est un ensemble d'oeuvres qui vient montrer l'impact de la technologie sur les point suivant « a construction et le (re)cadrage des identités individuelles et collectives, alors que nous vivons simultanément en ligne et AFK (away from keyboard, expression anglaise qui se traduit par «loin de son clavier»». Elle vient aussi montrer les différentes possibilités à se connecter et à aussi imaginer d'autre univers mais, aussi la pression de performance qui vient avec les technologies.
