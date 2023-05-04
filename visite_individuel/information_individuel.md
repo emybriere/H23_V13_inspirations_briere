@@ -3,7 +3,7 @@
 
 <img src="/visite_individuel/images/affiche_dehors.png" width=400px heigth=400px />
      
- <img src="" width=400px heigth=400px />
+<img src="/visite_individuel/images/cyberpowow.HEIC" width=400px heigth=400px />
  
  
 ### Lieu de mise en exposition
